@@ -1,0 +1,16 @@
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1908_ex08\aula1908_ex08\bin\Debug\aula1908_ex08.exe.config
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1908_ex08\aula1908_ex08\bin\Debug\aula1908_ex08.exe
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1908_ex08\aula1908_ex08\bin\Debug\aula1908_ex08.pdb
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1908_ex08\aula1908_ex08\obj\Debug\aula1908_ex08.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1908_ex08\aula1908_ex08\obj\Debug\aula1908_ex08.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1908_ex08\aula1908_ex08\obj\Debug\aula1908_ex08.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1908_ex08\aula1908_ex08\obj\Debug\aula1908_ex08.exe
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1908_ex08\aula1908_ex08\obj\Debug\aula1908_ex08.pdb
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1609_ex08\aula1908_ex08\bin\Debug\aula1908_ex08.exe.config
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1609_ex08\aula1908_ex08\bin\Debug\aula1908_ex08.exe
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1609_ex08\aula1908_ex08\bin\Debug\aula1908_ex08.pdb
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1609_ex08\aula1908_ex08\obj\Debug\aula1908_ex08.csproj.AssemblyReference.cache
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1609_ex08\aula1908_ex08\obj\Debug\aula1908_ex08.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1609_ex08\aula1908_ex08\obj\Debug\aula1908_ex08.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1609_ex08\aula1908_ex08\obj\Debug\aula1908_ex08.exe
+C:\Users\Diego\Documents\FTT - faculdade de tecnologia termomecanica\algoritmo\programas\aula1609_ex08\aula1908_ex08\obj\Debug\aula1908_ex08.pdb
